@@ -6,7 +6,7 @@
     <CppWinRTOptimized>true</CppWinRTOptimized>
     <CppWinRTRootNamespaceAutoMerge>true</CppWinRTRootNamespaceAutoMerge>
     <MinimalCoreWin>true</MinimalCoreWin>
-    <ProjectGuid>{ff580768-d4fc-4de3-b1bc-22347b3c9e1d}</ProjectGuid>
+    <ProjectGuid>{74aeb091-4c89-4dee-83ba-02f856a84e3f}</ProjectGuid>
     <ProjectName>buttoncounter</ProjectName>
     <RootNamespace>buttoncounter</RootNamespace>
     <DefaultLanguage>en-US</DefaultLanguage>
@@ -15,7 +15,7 @@
     <ApplicationType>Windows Store</ApplicationType>
     <ApplicationTypeRevision>10.0</ApplicationTypeRevision>
     <PackageCertificateKeyFile>buttoncounter_TemporaryKey.pfx</PackageCertificateKeyFile>
-    <PackageCertificateThumbprint>5CB272E687CD127EE9EA0B2421FC7795626FD525</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>C66B933C4D0099064F6414F6F096F9CDD90D15F4</PackageCertificateThumbprint>
     <PackageCertificatePassword>password</PackageCertificatePassword>
   </PropertyGroup>
   <PropertyGroup Label="ReactNativeWindowsProps">

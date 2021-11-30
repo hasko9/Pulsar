@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="f0562046-5c74-46a7-b3f2-1a2d8502d23f"
+    Name="46ca68ef-2d82-405f-afba-a6509c9f642f"
     Publisher="CN=Hasko_000"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="f0562046-5c74-46a7-b3f2-1a2d8502d23f" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="46ca68ef-2d82-405f-afba-a6509c9f642f" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>buttoncounter</DisplayName>
